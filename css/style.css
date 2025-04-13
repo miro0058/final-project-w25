@@ -145,11 +145,13 @@ h3{
     grid-template-rows: 1fr 1fr;
     gap: 20px;
     text-align: center;
+    padding: 20px;
 }
 
 .flavors div{
     background-color: #f8fafc;
     border-radius: 10px;
+    
 }
 
 footer{
@@ -225,8 +227,13 @@ footer{
     }
 
 
+    .flavors{
+        padding: 50px;
+    }
 
-
+    /* .flavors div{
+        size: 10px;
+    } */
 
 
 
