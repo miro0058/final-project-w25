@@ -114,20 +114,20 @@ h2{
 .behind .wrapper{
     background-color: #f8fafc;
     width: 100%;
-    padding: 50px;
-    
+    padding: 20px 50px 20px;
 }
 
 
-.people{
+.people .wrapper{
     background-color: #000;
     color: #fff;
-    padding: 50px;
+    padding-left: 20px;
 }
 
 .quote blockquote{
     margin-left: 0;
     padding: 20px;
+    
 }
 
 h3{
@@ -146,6 +146,7 @@ h3{
     gap: 20px;
     text-align: center;
     padding: 20px;
+    
 }
 
 .flavors div{
@@ -228,13 +229,10 @@ footer{
 
 
     .flavors{
-        padding: 50px;
+        padding: 0 50px 50px 0;
     }
 
-    /* .flavors div{
-        size: 10px;
-    } */
-
+   
 
 
 }
